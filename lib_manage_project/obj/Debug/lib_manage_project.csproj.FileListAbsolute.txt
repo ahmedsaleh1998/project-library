@@ -77,3 +77,7 @@ F:\Cmder\MyProjects\project-library\lib_manage_project\obj\Debug\lib_manage_proj
 F:\Cmder\MyProjects\project-library\lib_manage_project\obj\Debug\lib_manage_project.csproj.CopyComplete
 F:\Cmder\MyProjects\project-library\lib_manage_project\obj\Debug\lib_manage_project.dll
 F:\Cmder\MyProjects\project-library\lib_manage_project\obj\Debug\lib_manage_project.pdb
+F:\Cmder\MyProjects\project-library\lib_manage_project\bin\EntityFramework.dll
+F:\Cmder\MyProjects\project-library\lib_manage_project\bin\EntityFramework.SqlServer.dll
+F:\Cmder\MyProjects\project-library\lib_manage_project\bin\EntityFramework.xml
+F:\Cmder\MyProjects\project-library\lib_manage_project\bin\EntityFramework.SqlServer.xml

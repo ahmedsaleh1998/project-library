@@ -163,6 +163,7 @@
       <DependentUpon>DatabaseModel.edmx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationAttributes\NotInFuture.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\LibraryDatabase1.mdf" />
