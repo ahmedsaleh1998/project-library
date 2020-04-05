@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="68decba577d0442686ee9bfb9a741e6b" Name="Diagram1">
-        <EntityTypeShape EntityType="LibraryDatabase1Model.Admin" Width="1.5" PointX="7.625" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryDatabase1Model.Admin" Width="1.5" PointX="7.625" PointY="2.375" IsExpanded="true" />
         <EntityTypeShape EntityType="LibraryDatabase1Model.Author" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
         <EntityTypeShape EntityType="LibraryDatabase1Model.Book" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="LibraryDatabase1Model.Category" Width="1.5" PointX="5.625" PointY="3.125" IsExpanded="true" />
