@@ -130,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\authorController.cs" />
+    <Compile Include="Controllers\eslamcontroller.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -244,6 +245,11 @@
     <Content Include="Views\ssssss\Details.cshtml" />
     <Content Include="Views\ssssss\Edit.cshtml" />
     <Content Include="Views\ssssss\Index.cshtml" />
+    <Content Include="Views\eslamcontroller\Create.cshtml" />
+    <Content Include="Views\eslamcontroller\Delete.cshtml" />
+    <Content Include="Views\eslamcontroller\Details.cshtml" />
+    <Content Include="Views\eslamcontroller\Edit.cshtml" />
+    <Content Include="Views\eslamcontroller\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
