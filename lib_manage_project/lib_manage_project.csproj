@@ -130,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\authorController.cs" />
+    <Compile Include="Controllers\hamada.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -234,6 +235,11 @@
     <Content Include="Views\author\Create_author.cshtml" />
     <Content Include="Views\author\Edit_author.cshtml" />
     <Content Include="Views\author\Delete_author.cshtml" />
+    <Content Include="Views\hamada\Create.cshtml" />
+    <Content Include="Views\hamada\Delete.cshtml" />
+    <Content Include="Views\hamada\Details.cshtml" />
+    <Content Include="Views\hamada\Edit.cshtml" />
+    <Content Include="Views\hamada\Index.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
